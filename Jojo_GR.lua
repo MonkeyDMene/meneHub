@@ -21,7 +21,7 @@ local list = {
     "Legendary"
 }
 
-sect1:AddLabel("High Risk of ban")
+sect1:AddLabel("High Risk of Report")
 sect1:AddLabel("If in public server")
 sect1:AddLabel("Under is buggy")
 
